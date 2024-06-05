@@ -1,0 +1,8 @@
+.Embedded {
+    width: 400px;
+    display: grid;
+    place-items: center;
+    /* Căn giữa cả theo chiều ngang và chiều dọc */
+    height: 40vh;
+    /* Chiều cao của container để nó chiếm toàn bộ chiều cao màn hình (tùy chọn) */
+}
